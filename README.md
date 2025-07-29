@@ -26,7 +26,7 @@ Click the link below to download the Excel dashboard file:
 - Dashboard design best practices
 
 ## 📎 Preview
-![Dashboard Preview](bev-dash.png)
+![Dashboard Preview](https://github.com/wantap69/Beverage-Dashboard/blob/main/folder/bev-dash.png)
 
 ---
 
