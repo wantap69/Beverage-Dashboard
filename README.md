@@ -14,7 +14,7 @@ This repository contains a Microsoft Excel dashboard that visualizes beverage sa
 
 Click the link below to download the Excel dashboard file:
 
-[📥 Download Beverage Dashboard](https://github.com/wantap69/Beverage-Dashboard/raw/main/BeverageDashboard.xlsx)
+[📥 Download Beverage Dashboard](https://github.com/wantap69/Beverage-Dashboard/raw/main/folder/bev_dashboard.xlsx)
 
 > Note: File will automatically download or open in Excel depending on your browser settings.
 
